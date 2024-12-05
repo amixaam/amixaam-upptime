@@ -8,7 +8,7 @@ sites:
   - name: Photo-gallery
     url: https://photos.amixam.net
   - name: Jellyfin
-    url: https://jellfin.amixam.net
+    url: https://jellyfin.amixam.net
   - name: Seafile
     url: https://seafile.amixam.net
 
