@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.amixam.net.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "2.42%",
-    "uptimeDay": "2.42%",
-    "uptimeWeek": "2.42%",
-    "uptimeMonth": "2.42%",
-    "uptimeYear": "2.42%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 813,
     "timeDay": 813,
     "timeWeek": 813,
     "timeMonth": 813,
     "timeYear": 813,
-    "dailyMinutesDown": {
-      "2024-12-05": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Seafile",
