@@ -4,43 +4,47 @@
     "url": "https://amixam.net",
     "icon": "https://icons.duckduckgo.com/ip3/amixam.net.ico",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 660,
     "timeDay": 870,
     "timeWeek": 660,
     "timeMonth": 660,
     "timeYear": 660,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-11": 3
+    }
   },
   {
     "name": "Photo-gallery",
     "url": "https://photos.amixam.net",
     "icon": "https://icons.duckduckgo.com/ip3/photos.amixam.net.ico",
     "slug": "photo-gallery",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 691,
     "timeDay": 883,
     "timeWeek": 691,
     "timeMonth": 691,
     "timeYear": 691,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-11": 2
+    }
   },
   {
     "name": "Seafile",
     "url": "https://seafile.amixam.net",
     "icon": "https://icons.duckduckgo.com/ip3/seafile.amixam.net.ico",
     "slug": "seafile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 914,
     "timeMonth": 914,
     "timeYear": 914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-11": 0
+    }
   }
 ]
