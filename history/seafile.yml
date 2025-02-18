@@ -1,7 +1,7 @@
 url: https://seafile.amixam.net
-status: up
-code: 200
-responseTime: 1224
-lastUpdated: 2025-02-17T23:15:52.633Z
+status: down
+code: 400
+responseTime: 1544
+lastUpdated: 2025-02-18T13:03:16.985Z
 startTime: 2024-12-05T17:24:47.410Z
 generator: Upptime <https://github.com/upptime/upptime>
