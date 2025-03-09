@@ -36,7 +36,7 @@
     "url": "https://skrazzo.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/skrazzo.xyz.ico",
     "slug": "skrazzo",
-    "status": "up",
+    "status": "down",
     "uptime": "97.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
@@ -48,6 +48,7 @@
     "timeMonth": 1059,
     "timeYear": 1138,
     "dailyMinutesDown": {
+      "2025-03-09": 0,
       "2025-03-03": 15,
       "2025-03-01": 151,
       "2025-02-08": 516,
